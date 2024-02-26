@@ -1,2 +1,4 @@
 # Class-Management-System
-Test
+This Python code was done in the Computer Programming course during my last semester of studies in Marianopolis College. The program reads data from a file called "A4-data.txt" containing information about students, their programs, test scores, assignment scores, and project grades. It then offers a menu of options to perform various operations and analyses on this data.
+This code provides a menu-driven interface for analyzing and displaying various statistics about the student data read from the file. It uses dictionaries and loops to process the data and matplotlib for creating visualizations like pie charts and bar graphs.
+The main objective of this project was to refine my Python programming abilities, alongside using a variety of libraries and resources like Matplotlib and NumPy.
