@@ -1,7 +1,5 @@
 # Han Lee
-# 420-LCU Computer Programming, section 02
-# S. Hilal, instructor
-# Assignment 4
+# 420-LCU Computer Programming
 
 from matplotlib import pyplot as plt
 import numpy as np
